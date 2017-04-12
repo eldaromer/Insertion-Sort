@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\omer\documents\visual studio 2015\projects\insertionsort\insertionsort\main.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\omer\documents\visual studio 2015\projects\insertionsort\insertionsort\main.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\omer\documents\visual studio 2015\projects\insertionsort\insertionsort\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  InsertionSort.vcxproj -> C:\Users\Omer\Documents\Visual Studio 2015\Projects\InsertionSort\Debug\InsertionSort.exe
+  InsertionSort.vcxproj -> C:\Users\Omer\Documents\Visual Studio 2015\Projects\InsertionSort\Debug\InsertionSort.pdb (Partial PDB)
